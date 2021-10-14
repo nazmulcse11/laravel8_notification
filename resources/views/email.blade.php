@@ -8,7 +8,8 @@
 </head>
 <body>
     <h2>Hello</h2>
-    <h3>Web Journey</h3>
+    <h3>{{ $name }}</h3>
+    <h3>{{ $channel }}</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, beatae.</p>
 </body>
 </html>
